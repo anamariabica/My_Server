@@ -1,3 +1,14 @@
 {
-  "vara":{ "tara": "Spania"}
+  "users": [
+    { "id": 1, "tel": "0751383470", "username": "mira", "email": "medvei.mira@gmail.com", "groups": [ { "name": "group1", "date": "11.04.2019" }, { "name": "group2", "date": "11.05.2019" } ] },
+    { "id": 2, "tel": "0751334455", "username": "ana", "email": "ana.bica@gmail.com", "groups": [ { "name": "group1", "date": "11.04.2019" }, { "name": "group2", "date": "11.05.2019" } ] },
+    { "id": 3, "tel": "0722098798", "username": "mara", "email": "mara.oica@gmail.com", "groups": [ { "name": "group1", "date": "11.04.2019" }, { "name": "group2", "date": "11.05.2019" } ] }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
